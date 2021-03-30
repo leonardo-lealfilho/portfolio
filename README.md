@@ -1,4 +1,5 @@
-# [Stock Classification Based on Annual Financial Report](https://github.com/soccershowman/Springboard-Capstone/blob/master/README.md)
+# Project 1
+## [Stock Classification Based on Annual Financial Report](https://github.com/soccershowman/Springboard-Capstone/blob/master/README.md)
 
 * Uploaded 5 different datasets and made necessary changes prior to merging.
 * Merged datasets with appropriate indexing.
