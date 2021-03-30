@@ -10,6 +10,6 @@
 * Made statistical analysis on the results of best algorithm.
 
 <p float="left">
-<img src="./images/Sector_Count_per_Class.png" height="200" width="350" /> 
-<img src="./images/Average_Gain_and_Loss.png" height="200" width="350" />
+<img src="./images/Sector_Count_per_Class.png" height="200" width="325" /> 
+<img src="./images/Average_Gain_and_Loss.png" height="200" width="325" />
 </p>
