@@ -8,5 +8,5 @@
 * Created 4 different machine learning algorithms and decided on the best result.
 * Made statistical analysis on the results of best algorithm.
 
-![](./Springboard-Capstone/blob/master/Images/Sector_Count_per_Class.png){:height="100px" width="75px"}
+![](./images/Sector_Count_per_Class.png){:height="100px" width="75px"}
 ![]("./Images/Average_Gain_and_Loss.png"){:height="350px" width="550px"}
