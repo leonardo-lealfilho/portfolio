@@ -8,5 +8,5 @@
 * Created 4 different machine learning algorithms and decided on the best result.
 * Made statistical analysis on the results of best algorithm.
 
-<img src="./images/Sector_Count_per_Class.png" height="100" width="75">
+<img src="./images/Sector_Count_per_Class.png" height="250" width="350">
 ![]("./Images/Average_Gain_and_Loss.png"){:height="350px" width="550px"}
