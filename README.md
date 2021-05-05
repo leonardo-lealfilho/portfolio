@@ -10,8 +10,8 @@
 * Made statistical analysis on the results of best algorithm.
 
 <p float="left">
-<img src="./images/Sector_Count_per_Class.png" height="400" width="450" /> 
-<img src="./images/Average_Gain_and_Loss.png" height="400" width="450" />
+<img src="./images/Sector_Count_per_Class.png" height="400" width="305" /> 
+<img src="./images/Average_Gain_and_Loss.png" height="400" width="305" />
 </p>
 
 # Project 2
@@ -27,6 +27,6 @@
 * Saved models results as a dataframe and analyzed them graphically.
 
 <p float="left">
-<img src="./images/percent_change_2020.jpg" height="650" width="450" /> 
-<img src="./images/trend.jpg" height="650" width="450" />
+<img src="./images/percent_change_2020.jpg" height="650" width="305" /> 
+<img src="./images/trend.jpg" height="650" width="305" />
 </p>
