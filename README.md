@@ -27,6 +27,6 @@
 * Saved models results as a dataframe and analyzed them graphically.
 
 <p float="left">
-<img src="./images/percent_change_2020.jpg" height="750" width="450" /> 
-<img src="./images/trend.jpg" height="450" width="450" />
+<img src="./images/percent_change_2020.jpg" height="650" width="450" /> 
+<img src="./images/trend.jpg" height="650" width="450" />
 </p>
