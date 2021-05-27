@@ -18,7 +18,7 @@
 ## [U.S. Accident Forecast per State Time Series](https://github.com/soccershowman/Springboard/blob/master/Capstone_3/README.md)
 
 * Uploaded a dataset with information about individual accidents.
-* Seclected the necessary columns and made date into datetime data type.
+* Selected the necessary columns and made date into datetime data type.
 * Transformed each state into columns and counted the daily number of accidents in each one individually.
 * Checked the data graphically for potential seasonality and/or trends.
 * Acquire orders using AutoArima for the ARIMA model.
